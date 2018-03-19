@@ -1,1 +1,1 @@
-# Game
+# T-Rex Telegram Game
