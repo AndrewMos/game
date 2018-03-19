@@ -10,7 +10,7 @@ bot.onText( /\/start/, function( msg ) {
 
       msg.from.id,
 
-      "Hi <b>" + msg.from.first_name + "</> " + msg.from.last_name + "\nLet's play games!",
+      "Hi <b>" + msg.from.first_name + "</> " + msg.from.last_name + "\nLet's play games!  " + msg.from.id,
 
       {
 
